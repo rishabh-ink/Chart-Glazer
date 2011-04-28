@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chartglazer~source-code-repository/!svn/ver/68/ChartGlazer/src/edu/jss/ise/chartglazer/process/calc/assist
+END
+ConvergingRadialCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/chartglazer~source-code-repository/!svn/ver/55/ChartGlazer/src/edu/jss/ise/chartglazer/process/calc/assist/ConvergingRadialCalc.java
+END
+HierarchyCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/chartglazer~source-code-repository/!svn/ver/58/ChartGlazer/src/edu/jss/ise/chartglazer/process/calc/assist/HierarchyCalc.java
+END
+BasicProcessCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/chartglazer~source-code-repository/!svn/ver/55/ChartGlazer/src/edu/jss/ise/chartglazer/process/calc/assist/BasicProcessCalc.java
+END
+BasicBlockListCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/chartglazer~source-code-repository/!svn/ver/55/ChartGlazer/src/edu/jss/ise/chartglazer/process/calc/assist/BasicBlockListCalc.java
+END
+NondirectionalCycleCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/chartglazer~source-code-repository/!svn/ver/64/ChartGlazer/src/edu/jss/ise/chartglazer/process/calc/assist/NondirectionalCycleCalc.java
+END
+VerticalProcessCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/chartglazer~source-code-repository/!svn/ver/57/ChartGlazer/src/edu/jss/ise/chartglazer/process/calc/assist/VerticalProcessCalc.java
+END

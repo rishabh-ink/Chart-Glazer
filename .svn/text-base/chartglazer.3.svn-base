@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-10T13:06:38</date>
+  <millis>1276155398591</millis>
+  <sequence>0</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>Setting up (String, Integer) diagram type key, value pairs.</message>
+</record>
+</log>

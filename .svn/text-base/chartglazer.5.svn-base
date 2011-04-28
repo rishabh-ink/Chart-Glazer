@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-10T13:06:42</date>
+  <millis>1276155402710</millis>
+  <sequence>0</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>Setting up (String, Integer) diagram type key, value pairs.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-10T13:07:19</date>
+  <millis>1276155439028</millis>
+  <sequence>0</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>Setting up (String, Integer) diagram type key, value pairs.</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:23</date>
+  <millis>1276155443879</millis>
+  <sequence>1</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>In public Glazer()... (constructor)</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444706</millis>
+  <sequence>2</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>Starting diagram processing...</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444706</millis>
+  <sequence>3</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>Setting up RawInputData inputSpecs...</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444706</millis>
+  <sequence>4</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>In public void returnBackWithRawInput(RawInputData inputSpecs)...</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444722</millis>
+  <sequence>5</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>Calling glazer.startGlazing()...</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444722</millis>
+  <sequence>6</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>In public SVGDocumentData startGlazing()...</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444722</millis>
+  <sequence>7</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>cmData is inputDiagram = Chart Glazer, diagramDimensions = java.awt.Dimension[width=640,height=480], diagramType = 5000, numberOfSubtasks = 1</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444722</millis>
+  <sequence>8</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>Entering coordinate calculation case for IDiagramTypes.BASIC_PROCESS...</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444722</millis>
+  <sequence>9</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>edu.jss.ise.chartglazer.process.calc.assist.BasicProcessCalccalculateCoodinates(): horizontalDivisionWidth = 640.0</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444722</millis>
+  <sequence>10</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>edu.jss.ise.chartglazer.process.calc.assist.BasicProcessCalccalculateCoodinates(): i = 0...</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444737</millis>
+  <sequence>11</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>edu.jss.ise.chartglazer.process.calc.assist.BasicProcessCalccalculateCoodinates(): shapeCenterPoint = java.awt.Point[x=64,y=120]</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444737</millis>
+  <sequence>12</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>edu.jss.ise.chartglazer.process.calc.assist.BasicProcessCalccalculateCoodinates(): textCenterPoint = java.awt.Point[x=320,y=120]</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444737</millis>
+  <sequence>13</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>edu.jss.ise.chartglazer.process.calc.assist.BasicProcessCalccalculateCoodinates(): textContent = Welcome!</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444753</millis>
+  <sequence>14</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>Entering diagram drawing case for IDiagramTypes.BASIC_PROCESS...</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444753</millis>
+  <sequence>15</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>Constructing BasicProcess object...</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444815</millis>
+  <sequence>16</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>Now drawing diagram for BasicProcess...</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444862</millis>
+  <sequence>17</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>bpData.getShapeCenterPointsArray(0) = java.awt.Point[x=64,y=120]</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444862</millis>
+  <sequence>18</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>bpData.getTextCenterPointsArray(0) = java.awt.Point[x=320,y=120]</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444862</millis>
+  <sequence>19</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>[Font: java.awt.Font[family=Aharoni,name=Aharoni,style=plain,size=24], Font-face Color: java.awt.Color[r=51,g=51,b=51], Task Background Color: java.awt.Color[r=255,g=153,b=51], Task Border Color: java.awt.Color[r=153,g=153,b=153]]</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444862</millis>
+  <sequence>20</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>Creating shape: [shapeType = 300, shapeCenter = java.awt.Point[x=64,y=120], size = java.awt.Dimension[width=512,height=240], textContent = Welcome!</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:24</date>
+  <millis>1276155444909</millis>
+  <sequence>21</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>[24] : completeParaHeight = 17.636719, helloBox.getHeight() - pad = 225.0, map.get(TextAttribute.SIZE).toString() = 24.0</message>
+</record>
+<record>
+  <date>2010-06-10T13:07:25</date>
+  <millis>1276155445002</millis>
+  <sequence>22</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>Completed processing diagram. Now setting generateButton to enabled and updating up JSVGCanvas..</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-06-10T13:08:09</date>
+  <millis>1276155489136</millis>
+  <sequence>0</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>Setting up (String, Integer) diagram type key, value pairs.</message>
+</record>
+<record>
+  <date>2010-06-10T13:08:22</date>
+  <millis>1276155502115</millis>
+  <sequence>1</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>In public Glazer()... (constructor)</message>
+</record>
+<record>
+  <date>2010-06-10T13:08:36</date>
+  <millis>1276155516982</millis>
+  <sequence>2</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>Starting diagram processing...</message>
+</record>
+<record>
+  <date>2010-06-10T13:09:31</date>
+  <millis>1276155571753</millis>
+  <sequence>3</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>Setting up RawInputData inputSpecs...</message>
+</record>
+<record>
+  <date>2010-06-10T13:10:28</date>
+  <millis>1276155628085</millis>
+  <sequence>4</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>10</thread>
+  <message>In public void returnBackWithRawInput(RawInputData inputSpecs)...</message>
+</record>
+<record>
+  <date>2010-06-10T13:10:53</date>
+  <millis>1276155653669</millis>
+  <sequence>5</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>Calling glazer.startGlazing()...</message>
+</record>
+<record>
+  <date>2010-06-10T13:10:53</date>
+  <millis>1276155653669</millis>
+  <sequence>6</sequence>
+  <logger>cgLogger</logger>
+  <level>INFO</level>
+  <class>edu.jss.ise.chartglazer.shared.CGLogger</class>
+  <method>trace</method>
+  <thread>11</thread>
+  <message>In public SVGDocumentData startGlazing()...</message>
+</record>
